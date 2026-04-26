@@ -3,3 +3,9 @@ C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\bin\Debug\Common.pdb
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.dll
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.pdb
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\projekat_aus_pr73_2020\dCom\Common\bin\Debug\Common.dll
+C:\Users\HP\Documents\GitHub\projekat_aus_pr73_2020\dCom\Common\bin\Debug\Common.pdb
+C:\Users\HP\Documents\GitHub\projekat_aus_pr73_2020\dCom\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\projekat_aus_pr73_2020\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\projekat_aus_pr73_2020\dCom\Common\obj\Debug\Common.dll
+C:\Users\HP\Documents\GitHub\projekat_aus_pr73_2020\dCom\Common\obj\Debug\Common.pdb
